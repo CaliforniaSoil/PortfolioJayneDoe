@@ -1,0 +1,108 @@
+
+    #photo{
+    display: inline-block;
+    border-style: solid;
+    border-color: grey;
+    vertical-align: text-top;
+    
+    }
+    
+    #about{
+    height: 280px;
+    width: 500px;
+    display: inline-block;
+    background-color: rgb(236,229,236);
+    vertical-align: text-top;
+    
+    
+    
+    }
+    .abouthead{
+        color: white;
+        font-weight: bold;
+        font-weight: 900;
+        background-color: grey;
+        margin-top: 0px;
+        height: 35px;
+    }
+    
+    .details{
+        display: inline-block;
+        border-style: solid;
+        border-width: 1px;
+        margin: 10px;
+        width: 300px;
+        height: 540px;
+        background-color: rgb(236,229,236);
+
+        
+    }
+    
+    .firstline{
+        display: inline-block;
+        /* margin: 5px; */
+        width: 18.5%;
+        box-sizing: border-box;
+        text-align: center;
+    }
+    
+    .secondline{
+        display: inline-block;
+        margin: 5px;
+    }
+    
+    .subtitle{
+        color: white;
+        background-color: grey;
+        font-weight: 900;
+        font-weight: bold;
+        height: 35px;
+        margin-top: 0px;
+    }
+    .subtitle2{
+        color: white;
+        background-color: grey;
+        font-weight: 700;
+        font-weight: bold;
+        height: 25px;
+    }
+    
+    .button{
+        color: white;
+        background-color:green;
+        font-weight: 300;
+        font-weight: bold;
+        font-size: 60%;
+        width: 70px;
+        height:20px;
+        border-radius:5px;
+        display: inline-block;
+    }
+    
+    .info{
+    font-size: 16pt;
+    text-align: center;
+    }
+    
+    #wrapper{
+        background-color: rgb(77,57,55);
+        width: 1000px; 
+        height: 1000px;
+    }
+    
+    #footer{
+        background-color: rgb(246,246,246);
+        text-align: center;
+    }
+    
+    .head{
+        background-color: rgb(246,246,246);
+    }
+    
+    .profile{
+        margin-left: 20px;
+    }
+    
+    .detailsfooter {
+        text-align: center;
+    }
